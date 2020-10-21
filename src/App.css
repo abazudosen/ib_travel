@@ -6,6 +6,10 @@
 }
 
 .home,
+.design,
+.consulting,
+.contact-us,
+.software,
 .services,
 .products,
 .sign-up {
@@ -36,6 +40,42 @@
 
 .sign-up {
   background-image: url('/images/img-8.jpg');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 100px;
+}
+
+.contact-us {
+  background-image: url('/public/images/pexels-alex-andrews-821754.jpg');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 100px;
+}
+
+.consulting {
+  background-image: url('/images/pexels-rfstudio-3810788.jpg');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 100px;
+}
+
+.software {
+  background-image: url('/images/pexels-danny-meneses-943096.jpg');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 100px;
+}
+
+.design {
+  background-image: url('/images/pexels-ovan-57690.jpg');
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
